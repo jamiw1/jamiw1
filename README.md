@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1024ping-real-prob
+- 👋 Hi, I’m 1024ping
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Lua, and C#
 - 💞️ I’m looking to collaborate on other projects (or my own)
