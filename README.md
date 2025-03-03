@@ -1,5 +1,7 @@
-- 👋 Hi, I’m 1024ping
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Lua, and C#
-- 💞️ I’m open for commission, depending if I'm busy or not
-- 📫 How to reach me: @1024ping (discord)
+- hey i'm 1024ping / jamiw
+
+- i am currently learning JavaScript/TypeScript
+- i currently know Lua, with most of my experience in Roblox Studio
+- i have slight experience in Godot
+
+- if you have any inquiries, feel free to reach out with my public email or on discord `@1024ping`
